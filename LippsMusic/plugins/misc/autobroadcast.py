@@ -26,7 +26,7 @@ MESSAGES = f"""💗       ˹@{app.username}˼ ♪       💗
 BUTTONS = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton("α∂∂ ιи уσυʀ ɢʀσυρ", url=f"https://t.me/KritikaMusicBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
+            InlineKeyboardButton("α∂∂ ιи уσυʀ ɢʀσυρ", url=f"https://t.me/harley_x_RoBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
         ]
     ]
 )
@@ -46,7 +46,7 @@ MESSAGE = f"""💗       ˹@{app.username}˼ ♪       💗
 BUTTON = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(" α∂∂ ιи уσυʀ ɢʀσυρ ", url=f"https://t.me/KritikaMusicBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
+            InlineKeyboardButton(" α∂∂ ιи уσυʀ ɢʀσυρ ", url=f"https://t.me/harley_x_RoBot?startgroup=s&admin=delete_messages+manage_video_chats+pin_messages+invite_users")
         ]
     ]
 )
